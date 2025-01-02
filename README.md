@@ -16,8 +16,8 @@ Releases
 * Initial release
 
 0.2.0, 2025-01-02
-    * Move from pandas.ExcelWriter() to DataFrame.to_excel() (transparent to user)
-    * Add optional `tabname` argument to auto_size_excel_column_widths() and filter_and_freeze_excel()
+* Move from pandas.ExcelWriter() to DataFrame.to_excel() (transparent to user)
+* Add optional `tabname` argument to auto_size_excel_column_widths() and filter_and_freeze_excel()
 
 License
 -------
