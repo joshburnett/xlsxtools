@@ -16,7 +16,7 @@ dependencies = [
 requires-python = ">=3.8"
 
 [project.urls]
-Home = "https://github.com/joshburnett/msteamsnotifiers"
+Home = "https://github.com/joshburnett/xlsxtools"
 
 [tool.flit.module]
 name = "xlsxtools"
